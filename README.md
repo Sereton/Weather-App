@@ -1,1 +1,1 @@
-Small React app to check new create-react-app version.
+Small React app to check the new create-react-app version.
